@@ -4,8 +4,9 @@ I’m a developer working across machine learning, programming, and front-end we
 Alongside coding, I write technical articles .
 
 ### 💻 Skills
-- C++, Python, SQL
-- HTML, CSS, JavaScript
+- DSA - C++
+- ML & Data Sci - Python, SQL
+- Front End - HTML, CSS, JavaScript, React
 - Machine Learning workflows
 
 ### 🌱 Current Focus
