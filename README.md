@@ -1,7 +1,6 @@
 # Hi, I’m Anwesha 
 
 I’m a developer working across machine learning, programming, and front-end web development.
-Alongside coding, I write technical articles .
 
 ### 💻 Skills
 - DSA - C++
