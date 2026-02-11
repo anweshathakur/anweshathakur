@@ -2,12 +2,12 @@
 
 I’m a developer working across machine learning, programming, and front-end web development.
 
-### 💻 Skills
+###  Skills
 - DSA - C++
 - ML & Data Sci - Python, SQL
 - Front End - HTML, CSS, JavaScript
 - Machine Learning workflows
 
-### 🌱 Current Focus
+###  Current Focus
 - Machine learning projects
 - Strengthening full-stack fundamentals
