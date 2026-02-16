@@ -11,3 +11,7 @@ I’m a developer working across machine learning, programming, and front-end we
 ###  Current Focus
 - Machine learning projects
 - Strengthening full-stack fundamentals
+
+  <p align="right">
+  <img src="https://i.imgur.com/JqEuJ6t.png" width="70" />
+</p>
