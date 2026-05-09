@@ -19,10 +19,8 @@ My work combines machine learning, full-stack development, retrieval systems, da
 ## Technical Skills
 
 ### Languages
-- Python
-- C++
-- JavaScript
-- SQL
+``` Python``` ``` C++ ```
+``` JavaScript``` ``` SQL```
 
 ### AI / Machine Learning
 ```Scikit-learn``` ``` Pandas``` ```NumPy``` ``` SentenceTransformers ``` ``` HuggingFace Transformers```
