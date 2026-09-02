@@ -4,7 +4,7 @@ I’m a developer focused on building intelligent systems, AI-powered workflows,
 My work combines machine learning, full-stack development, retrieval systems, data-driven decision making, and product-oriented design to create projects that solve real operational and user-focused problems.
 
 portfolio- https://portfolio-web-3ljy.vercel.app/
----
+
 
 ## Areas of Interest
 
